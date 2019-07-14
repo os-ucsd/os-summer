@@ -7,9 +7,6 @@ export default Layout
 ## Introduction to Open Source
 
 
-
-
-
 Welcome to Open Source Summer!
 
 ![](http://placehold.it/200)
