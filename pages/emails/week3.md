@@ -1,4 +1,5 @@
 import Layout from '../../components/Layout'
+import HelpWantedLabel from '../../components/HelpWantedLabel'
 
 export default Layout
 
@@ -31,41 +32,48 @@ View all of the game proposals [here](https://github.com/os-ucsd/casino/issues?u
 
 ## Week 3 Overview
 
-Last week, we introduced Issues and had you all submit issues to propose game ideas to contribute to our Open Source Arcade/Casino. This week, you’ll begin implementing the ideas that you proposed!
+Last week, we introduced Issues and had you all submit issues to propose game ideas to contribute to our Open Source Arcade/Casino. 
+This week, you’ll claim your game as yours, and begin implementing the ideas that you proposed!
 
 
 ### Claiming Issues
 
-Sometimes, maintainers in open source projects don't have to time to work on every single feature request or bug fix. So, maintainers typically rely on individual contributors to step in and claim tasks to make the project better.
+Sometimes, maintainers in open source projects don't have to time to work on every single feature request or bug fix.
+So, maintainers typically rely on individual contributors from the open source community to step in and claim tasks to make the project better.
 
 
 Here are some examples of this in action:
 
-- [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers), a repository of web scrapers for local governments, has several issues where maintainers are [asking for help](https://github.com/City-Bureau/city-scrapers/labels/help%20wanted)
-- [zeit/next.js](https://github.com/zeit/next.js), a React framework in JavaScript, has issues that are [asking for help](https://github.com/zeit/next.js/labels/help%20wanted) 
+- [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers), a repository of web scrapers for local governments, has several issues where maintainers are [asking for help](https://github.com/City-Bureau/city-scrapers/labels/help%20wanted) for various tasks
+- [zeit/next.js](https://github.com/zeit/next.js), a React framework in JavaScript, has issues that are [asking for help](https://github.com/zeit/next.js/labels/help%20wanted) on a wide variety of topics
 - [dtcrout/spotitude](https://github.com/dtcrout/spotitude/issues), a Spotify user analytics visualizer written in Python, [asks for help](https://github.com/dtcrout/spotitude/issues) with some new features
 
-Find other open source projects that are looking for contributors at [up-for-grabs.net](https://up-for-grabs.net/#/)!
+Side note: Find other open source projects that are looking for contributors at [up-for-grabs.net](https://up-for-grabs.net/#/)!
 
 ---
 
-## Weekly Challenge #3 - Claimin' and Buildin'
+## Weekly Challenge #3 - Claimin' and Buildin' 🛠
 
 This week, there are 2 parts to our challenge: 
 
+
+
 ### Part 1: Claim your game's issue!
 
-If your proposal from last week's challenge got the SEAL of approval, we will be closing the issue that you created with your proposal. Then, we will create a new issue that 
-will have a  <span style={{backgroundColor: "#008672",
-      borderRadius: "6px",
-      boxShadow: "inset 0 -1px 0 rgba(27,31,35,.12)",
-      color: "white",
-      fontWeight: 700,
-      padding: "2px",
-      }}>help wanted</span>
+If your proposal from last week's challenge got the SEAL of approval, we will be closing the issue that you created with your proposal. 
+Then, we will create a ** new ** issue that 
+will have a  <HelpWantedLabel/>
       label, asking for someone (you!) to actually implement (code) the new game.
 
 **Your job** is to comment on that new issue, saying that you would like to implement the game! This is you "claiming" that issue. Once you've claimed it, we will add you as a collaborator to the repository and assign the issue to you. 
+
+For example, on [@chrisjrobles](https://github.com/chrisjrobles)'s proposal to add Snek🐍 to our casino ([Issue #1](https://github.com/os-ucsd/casino/issues/1)),
+Chris got the SEAL of approval, so we closed that issue and created a new issue, [Issue #6](https://github.com/os-ucsd/casino/issues/6), that has the <HelpWantedLabel/> label.
+Chris now will comment on this new Issue #6, saying something like "I'll take this issue". 
+
+Once we get his comment, we will [assign the issue](https://help.github.com/en/articles/assigning-issues-and-pull-requests-to-other-github-users)
+to Chris and he will be done with Part 1!
+
 
 ### Part 2: Work on your game!
 
