@@ -38,7 +38,7 @@ This week, you’ll claim your game as yours, and begin implementing the ideas t
 
 ### Claiming Issues
 
-Sometimes, maintainers in open source projects don't have to time to work on every single feature request or bug fix.
+Sometimes, maintainers in open source projects don't have time to work on every single feature request or bug fix.
 So, maintainers typically rely on individual contributors from the open source community to step in and claim tasks to make the project better.
 
 
@@ -78,7 +78,7 @@ to Chris and he will be done with Part 1!
 ### Part 2: Work on your game!
 
 This part is self explanatory - begin working on your game! 
-Install any programming languages you might need, figure our your developer enviroment, write your first lines of code. Don't worry about pushing your code to Github or forking the casino repository quite yet, we will get to that next week! 
+Install any programming languages you might need, figure out your developer enviroment, write your first lines of code. Don't worry about pushing your code to Github or forking the casino repository quite yet, we will get to that next week! 
 
 As always, if you have problems with your code, get stuck, can't figure out an error, or you don't know how to begin, feel free to post on our FB group, discord channel, or create an issue on Github! We've got a team of people we will work with you on any problems you may have. Links below!
 
