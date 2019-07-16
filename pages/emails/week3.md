@@ -55,10 +55,23 @@ This week, there are 2 parts to our challenge:
 
 ### Part 1: Claim your game's issue!
 
-If your proposal from last week's challenge got the SEAL of approval, we will be closing the issue that you created with your proposal. Then, we will create a new issue that will have a <span style="">help wanted</span>
+If your proposal from last week's challenge got the SEAL of approval, we will be closing the issue that you created with your proposal. Then, we will create a new issue that 
+will have a  <span style={{backgroundColor: "#008672",
+      borderRadius: "6px",
+      boxShadow: "inset 0 -1px 0 rgba(27,31,35,.12)",
+      color: "white",
+      fontWeight: 700,
+      padding: "2px",
+      }}>help wanted</span>
+      label, asking for someone (you!) to actually implement (code) the new game.
+
+**Your job** is to comment on that new issue, saying that you would like to implement the game! This is you "claiming" that issue. Once you've claimed it, we will add you as a collaborator to the repository and assign the issue to you. 
 
 ### Part 2: Work on your game!
 
+This part is self explanatory - begin working on your game! Install any programming language you might need, figure our your developer enviroment, write your first lines of code. Don't worry about pushing your code to Github or forking the casino repository quite yet, we will get to that next week! 
+
+As always, if you have problems with your code, get stuck, can't figure out an error, or you don't know how to begin, feel free to post on our FB group, discord channel, or create an issue on Github! We've got a team of people we will work with you on any problems you may have. Links below!
 
 ---
 
