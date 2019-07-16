@@ -2,6 +2,7 @@ dependencies:
   '@mdx-js/loader': 1.0.23
   '@next/mdx': 9.0.0
   next: 9.0.0
+  next-seo: 1.12.0
   react: 16.8.6
   react-dom: 16.8.6
 packages:
@@ -3369,6 +3370,15 @@ packages:
     dev: false
     resolution:
       integrity: sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
+  /next-seo/1.12.0:
+    dev: false
+    peerDependencies:
+      next: ^6.0.0 || ^7.0.0 || ^8.0.0
+      prop-types: ^15.6.0
+      react: ^16.0.0
+      react-dom: ^16.0.0
+    resolution:
+      integrity: sha512-8w4aMsynRnOf/0q3pzTgFKLfR/jJLlsWQa0AZP0Gsqkwla2w2XVAyuP4wSs5y1vvYSRM6/D5zTWiQpFYJilKsA==
   /next-server/9.0.0:
     dependencies:
       amp-toolbox-optimizer: 1.2.0-alpha.1
@@ -5119,5 +5129,6 @@ specifiers:
   '@mdx-js/loader': ^1.0.23
   '@next/mdx': ^9.0.0
   next: ^9.0.0
+  next-seo: ^1.12.0
   react: ^16.8.6
   react-dom: ^16.8.6
