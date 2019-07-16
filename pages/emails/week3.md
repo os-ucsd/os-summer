@@ -5,7 +5,7 @@ export default Layout
 
 
 
-# Open Source Summer - Week 3
+# Open Source Summer - Week 3 🏄
 
 <img 
      width="300"

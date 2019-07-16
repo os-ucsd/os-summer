@@ -11,7 +11,7 @@ export default function Layout(props) {
       <Head>
         <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet"/>
       </Head>
-      {props.children}
+      <div className="main">{props.children}</div>
       <style global jsx>{`
         h1,
         a {
@@ -20,6 +20,12 @@ export default function Layout(props) {
           font-family:  "Roboto Mono";
     font-style: normal;
         }
+.main {
+  margin: auto;
+  max-width: 42rem;
+  padding:2.625rem 1.3125rem;
+  min-height:100vh;
+}
       `}</style>
     </div>
   )
