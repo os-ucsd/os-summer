@@ -55,6 +55,8 @@ This week, there are 2 parts to our challenge:
 
 ### Part 1: Claim your game's issue!
 
+If your proposal from last week's challenge got the SEAL of approval, we will be closing the issue that you created with your proposal. Then, we will create a new issue that will have a <span style="">help wanted</span>
+
 ### Part 2: Work on your game!
 
 
