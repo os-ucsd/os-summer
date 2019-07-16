@@ -36,16 +36,29 @@ Last week, we introduced Issues and had you all submit issues to propose game id
 
 ### Claiming Issues
 
-Sometimes, maintainers in open source projects don't have to time to work on every single feature request or bug fix. So, maintainers typically rely on individual contributors to step in and claim certain  
+Sometimes, maintainers in open source projects don't have to time to work on every single feature request or bug fix. So, maintainers typically rely on individual contributors to step in and claim tasks to make the project better.
 
 
-## Weekly Challenge #3
+Here are some examples of this in action:
+
+- [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers), a repository of web scrapers for local governments, has several issues where maintainers are [asking for help](https://github.com/City-Bureau/city-scrapers/labels/help%20wanted)
+- [zeit/next.js](https://github.com/zeit/next.js), a React framework in JavaScript, has issues that are [asking for help](https://github.com/zeit/next.js/labels/help%20wanted) 
+- [dtcrout/spotitude](https://github.com/dtcrout/spotitude/issues), a Spotify user analytics visualizer written in Python, [asks for help](https://github.com/dtcrout/spotitude/issues) with some new features
+
+Find other open source projects that are looking for contributors at [up-for-grabs.net](https://up-for-grabs.net/#/)!
+
+---
+
+## Weekly Challenge #3 - Claimin' and Buildin'
+
+This week, there are 2 parts to our challenge: 
+
+### Part 1: Claim your game's issue!
+
+### Part 2: Work on your game!
 
 
-
-
-
-
+---
 
 ## Sneak Peek for Next Week: 📝
 
