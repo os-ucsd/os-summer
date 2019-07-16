@@ -5,7 +5,7 @@ export default Layout
 
 
 
-## Open Source Summer - Week 3
+# Open Source Summer - Week 3
 
 <img 
      width="300"
@@ -15,7 +15,7 @@ export default Layout
 
 Welcome to Open Source Summer Week 3!
 
-## Week 2 Spotlight
+## Week 2 Spotlight 🌞
 
 Last week, we received some awesome proposals to our Open Source Arcade/Casino repository! 
 
@@ -36,7 +36,7 @@ Last week, we introduced Issues and had you all submit issues to propose game id
 This week, you’ll claim your game as yours, and begin implementing the ideas that you proposed!
 
 
-### Claiming Issues
+### Claiming Issues ❗
 
 Sometimes, maintainers in open source projects don't have time to work on every single feature request or bug fix.
 So, maintainers typically rely on individual contributors from the open source community to step in and claim tasks to make the project better.
@@ -52,7 +52,7 @@ Side note: Find other open source projects that are looking for contributors at 
 
 ---
 
-## Weekly Challenge #3 - Claimin' and Buildin' 🛠
+## Weekly Challenge #3 - Claimin' 🙋 and Buildin' 🛠
 
 This week, there are 2 parts to our challenge: 
 
