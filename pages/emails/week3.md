@@ -6,14 +6,17 @@ export default Layout
 
 ## Open Source Summer - Week 3
 
-![](https://cdn.glitch.com/61a28bf7-0354-48ea-a06b-150b62fc83d0%2Foctocat.png?v=1563242443399)
+<img 
+     width="300"
+     src="https://cdn.glitch.com/61a28bf7-0354-48ea-a06b-150b62fc83d0%2Foctocat.png?v=1563242443399"
+/>
 
 
 Welcome to Open Source Summer Week 3!
 
 ## Week 2 Spotlight
 
-Last week, we received some interesting proposals to our Open Source Arcade/Casino repository! 
+Last week, we received some awesome proposals to our Open Source Arcade/Casino repository! 
 
 Here are some cool game proposals you all made 😎
 
@@ -30,14 +33,7 @@ View all of the game proposals [here](https://github.com/os-ucsd/casino/issues?u
 
 Last week, we introduced Issues and had you all submit issues to propose game ideas to contribute to our Open Source Arcade/Casino. This week, you’ll begin implementing the ideas that you proposed!
 
-What topic are we doing?
 
-Asldfjalskdfjl
-
-Open Source Casino/Arcade 🎰🃏
-Open Source Casino/Arcade is (will be!) a collection of games built by the open source community @ UCSD - meant to help people new to open source get more comfortable with proposals, pull requests, and programming in the open source world
-
-Link to Open Source Casino/Arcade repo
 
 ## Weekly Challenge #3
 
