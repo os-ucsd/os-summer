@@ -15,10 +15,8 @@ export default function Layout(props) {
       <style global jsx>{`
         h1,
         a {
-          font-family: 'Arial';
-          color: red;
         }
-        p {
+        body {
           font-family:  "Roboto Mono";
     font-style: normal;
         }

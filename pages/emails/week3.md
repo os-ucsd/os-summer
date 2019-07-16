@@ -34,6 +34,10 @@ View all of the game proposals [here](https://github.com/os-ucsd/casino/issues?u
 Last week, we introduced Issues and had you all submit issues to propose game ideas to contribute to our Open Source Arcade/Casino. This week, you’ll begin implementing the ideas that you proposed!
 
 
+### Claiming Issues
+
+Sometimes, maintainers in open source projects don't have to time to work on every single feature request or bug fix. So, maintainers typically rely on individual contributors to step in and claim certain  
+
 
 ## Weekly Challenge #3
 
@@ -41,9 +45,6 @@ Last week, we introduced Issues and had you all submit issues to propose game id
 
 
 
-- [Facebook Page](https://www.facebook.com/OpenSourceUCSD/) and [Facebook Group](https://www.facebook.com/groups/OpenSourceUCSD/)
-- [Discord server](https://discord.gg/EBx4pw)
-- [Github](https://github.com/os-ucsd)
 
 
 ## Sneak Peek for Next Week: 📝
@@ -52,3 +53,7 @@ Last week, we introduced Issues and had you all submit issues to propose game id
 See you all next week! More exciting things to come in the future 🚀 
 
 In the meantime, if you have some spare time, we would appreciate it if you could leave us some [anonymous feedback](https://forms.gle/ngYehVnMoQT27Lft8) about this week’s email!
+
+- [Facebook Page](https://www.facebook.com/OpenSourceUCSD/) and [Facebook Group](https://www.facebook.com/groups/OpenSourceUCSD/)
+- [Discord server](https://discord.gg/EBx4pw)
+- [Github](https://github.com/os-ucsd)
