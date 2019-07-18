@@ -1,0 +1,29 @@
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" class="next-head"/><meta charSet="utf-8" class="next-head"/><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css" integrity="sha256-HbgiGHMLxHZ3kkAiixyvnaaZFNjNWLYKD/QG6PWaQPc=" crossorigin="anonymous" class="jsx-564849034 next-head"/><link rel="preload" href="/os-summer/_next/static/STfBlPJZOFdmP_gW6X-Nt/pages/notes/site.js" as="script"/><link rel="preload" href="/os-summer/_next/static/STfBlPJZOFdmP_gW6X-Nt/pages/_app.js" as="script"/><link rel="preload" href="/os-summer/_next/static/runtime/webpack-3df6523e264ff2ac6548.js" as="script"/><link rel="preload" href="/os-summer/_next/static/chunks/commons.1204dcd74c8c6f4f1dd8.js" as="script"/><link rel="preload" href="/os-summer/_next/static/runtime/main-e54a9a26a9f23dab7d81.js" as="script"/><style id="__jsx-895331459">.rainbow-text.jsx-895331459{background-image:linear-gradient(to left,violet,indigo,blue,green,yellow,orange,red);-webkit-background-clip:text;-webkit-text-fill-color:transparent;}</style><style id="__jsx-564849034">.markdown-body{box-sizing:border-box;min-width:200px;max-width:980px;margin:0 auto;padding:45px;}@media (max-width:767px){.markdown-body{padding:15px;}}.main{margin:auto;max-width:42rem;padding:2.625rem 1.3125rem;min-height:100vh;}</style></head><body><div id="__next"><div class="jsx-564849034"><div class="jsx-564849034"><a href="/">🏠 Home</a></div><div class="jsx-564849034 main markdown-body"><h1>Summer Site Notes</h1><p>Notes on how to maintain, update, and write to this site.</p><h2>Basics</h2><p>The site you are viewing right now is created with <a href="https://nextjs.org/">Next.js</a> -
+which is a <a href="https://reactjs.org/">React</a> framework in JavaScript.</p><h3>Next.js basics</h3><p>At a high level, Next.js is just a website generator. You&#x27;ll have a project with a <code>/pages</code> directory,
+and every React/MDX file (more on MDX below) in that directory creates a webpage.
+For example: if your directory looked like:</p><pre><code>not_included.jsx
+/pages
+  /about
+    index.jsx
+  /authors
+    alex.js
+    brad.mdx
+    chris.md
+  index.mdx
+  example.jsx
+</code></pre><p>Next would generate a site with URL&#x27;s looking like:</p><pre><code>example.com/
+example.com/about
+example.com/authors/alex
+example.com/authors/brad
+example.com/authors/chris
+example.com/example
+</code></pre><p><strong>Note</strong>: only files with <code>.js</code>, <code>.jsx</code>, <code>.md</code> or <code>.mdx</code> files will generate a new page.
+<code>.js</code> and <code>.jsx</code> files are usually React files, <code>.md</code> and <code>.mdx</code> are MDX files - see below.</p><p>Never written in javascript or react before? That&#x27;s fine, you may not have to!</p><p>This site uses a Next.js plugin called <a href="https://mdxjs.com/getting-started/next/">@next/mdx</a> -
+which brings <a href="https://mdxjs.com/">MDX</a> to a Next site.</p><p>Okay... so what&#x27;s MDX??</p><h3>MDX Basics</h3><p>MDX is very similar to Markdown (hence <strong>MD</strong>X). If you have ever written
+a README.md file on Github, you&#x27;ve written in markdown! This is some example Markdown:</p><pre><code>#### Woah a subheader
+
+This is regular text, but you **Can make things bold** or *italicized*, or
+just ~~cross some stuff out~~~ - with [links](https://github.com), of course.
+</code></pre><p>Rendered, the above example looks like:</p><h4>Woah a subheader</h4><p>This is regular text, but you <strong>Can make things bold</strong> or <em>italicized</em>, or
+just <del>cross some stuff out</del>~ - with <a href="https://github.com">links</a>, of course.</p><p>But MDX gives us really cool opportunity to add React components inside our markdown!</p><p>Let&#x27;s say I had a React component called <code>RainbowText</code> that renders some text with a cool rainbow style.</p><p>In MDX, I could do something like:</p><pre><code>This would be normal boring markdown - and &lt;RainbowText&gt;this is rainbow text!!&lt;/RainbowText&gt;
+</code></pre><p>This would be normal boring markdown - and <span class="jsx-895331459 rainbow-text">this is rainbow text!!</span></p><h2>Why Next and MDX?</h2><ul><li>JavaScript bc it works nicely with <a href="https://glitch.com">Glitch</a></li><li>Next.js is pretty simple to set up, and the <code>/pages</code> directory rendering is easy to understand for beginniners (I hope)</li><li>React bc it&#x27;s super extensible and customizable</li><li>MDX so non-javascript contributors could still contribute greatly without knowing crazy React syntax.</li></ul><h2>Setting up dev environment</h2><h3>Setting up locally</h3><p>Let&#x27;s not go there</p><h3>Setting up on glitch</h3><p>yas good choice</p><p>TODO</p><h2>Adding Pages</h2><h3>As React file (<code>.js</code> or <code>.jsx</code>)</h3><p>TODO</p><h3>As MDX file (<code>.md</code> or <code>.mdx</code>)</h3><p>TODO</p></div></div></div><script id="__NEXT_DATA__" type="application/json">{"dataManager":"[]","props":{"pageProps":{}},"page":"/notes/site","query":{},"buildId":"STfBlPJZOFdmP_gW6X-Nt","dynamicBuildId":false,"assetPrefix":"/os-summer","nextExport":true}</script><script async="" id="__NEXT_PAGE__/notes/site" src="/os-summer/_next/static/STfBlPJZOFdmP_gW6X-Nt/pages/notes/site.js"></script><script async="" id="__NEXT_PAGE__/_app" src="/os-summer/_next/static/STfBlPJZOFdmP_gW6X-Nt/pages/_app.js"></script><script src="/os-summer/_next/static/runtime/webpack-3df6523e264ff2ac6548.js" async=""></script><script src="/os-summer/_next/static/chunks/commons.1204dcd74c8c6f4f1dd8.js" async=""></script><script src="/os-summer/_next/static/runtime/main-e54a9a26a9f23dab7d81.js" async=""></script></body></html>
