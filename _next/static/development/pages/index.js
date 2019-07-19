@@ -1777,7 +1777,7 @@ function MDXContent(_ref) {
   }, Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__["mdx"])("a", Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_1__["default"])({
     parentName: "li"
   }, {
-    "href": "/notes/mini-challenges"
+    "href": "./notes/mini-challenges"
   }, {
     __source: {
       fileName: _jsxFileName,
@@ -1794,7 +1794,7 @@ function MDXContent(_ref) {
   }, Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_3__["mdx"])("a", Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_1__["default"])({
     parentName: "li"
   }, {
-    "href": "/notes/site"
+    "href": "./notes/site"
   }, {
     __source: {
       fileName: _jsxFileName,
