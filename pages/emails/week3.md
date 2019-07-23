@@ -1,8 +1,10 @@
-import Layout from '../../components/Layout'
+import EmailLayout from '../../components/EmailLayout'
 import HelpWantedLabel from '../../components/HelpWantedLabel'
 
-export default Layout
-
+export const meta = {
+  thumbnail: ""
+}
+export default EmailLayout
 
 
 # Open Source Summer - Week 3 🏄
