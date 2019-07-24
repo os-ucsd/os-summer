@@ -8,7 +8,7 @@ export default function NotesLayout(props) {
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css" integrity="sha256-HbgiGHMLxHZ3kkAiixyvnaaZFNjNWLYKD/QG6PWaQPc=" crossorigin="anonymous" />
       </Head>
       <div>
-        <Link href="/">🏠 Home</Link>
+        <Link href="../">🏠 Home</Link>
       </div>
       <div className="main markdown-body">{props.children}</div>
       <style global jsx>{`
