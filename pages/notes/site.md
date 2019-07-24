@@ -86,6 +86,7 @@ This would be normal boring markdown - and <RainbowText>this is rainbow text!!</
 
 This would be normal boring markdown - and <RainbowText>this is rainbow text!!</RainbowText>
 
+
 ## Why Next and MDX?
 
 - JavaScript bc it works nicely with [Glitch](https://glitch.com)
@@ -96,17 +97,39 @@ This would be normal boring markdown - and <RainbowText>this is rainbow text!!</
 
 ## Setting up dev environment
 
+<div id="dev"></div>
+
+
 ### Setting up locally
 
 Let's not go there
 
 ### Setting up on glitch
 
-yas good choice
+There are two instances of `site` on Glitch: 
+[`https://os-ucsd-summer-dev.glitch.me`](https://os-ucsd-summer-dev.glitch.me) and
+[`https://os-ucsd-summer.glitch.me`](https://os-ucsd-summer.glitch.me).
 
-TODO
+The `os-ucsd-summer-dev` is the development app, that's the one that we write content to live, and verify that it won't break the site. The `os-ucsd-summer` one is the "official", front-facing site. It should always be up, and it's not up to date.
+
+The official codebase is found at [os-ucsd/os-summer](https://github.com/os-ucsd/os-summer) on Github. Both Glitch projects have this repo as the `origin` remote. So, on `os-ucsd-summer-dev`, we `Export to Github` to this repositry, then on `os-ucsd-summer`, we `Import from Github`. 
+
+
+Any maintainer who needs access to `os-ucsd-summer-dev` should message Alex for the invite link. Access to `os-ucsd-summer` could also be given, but you probably won't need access unless you're updating it.
+
+
+The workflow for editing this site should go like:
+
+1. Open the Glitch editor for the `os-ucsd-summer-dev` project, [here](https://glitch.com/edit/#!/os-ucsd-summer-dev), make your edits.
+2. Once done, Go to `Tools` -> `Export to Github`. 
+3. Once merged to master, open the Glitch editor for the `os-ucsd-summer` project, [here](https://glitch.com/edit/#!/os-ucsd-summer)
+4. `Tools` -> `Import from Github`
+5. Make sure os-ucsd-summer.glitch.me looks good!
+
+
 
 ## Adding Pages
+
 
 ### As React file (`.js` or `.jsx`)
 
